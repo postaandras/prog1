@@ -1,0 +1,10 @@
+telefontok 35 35.5
+alma 14 0.5
+laskasűrítő 2 200.75
+fotel 1976 250.99
+szalonna 9 8.35
+kifli 15 3.5
+keksz 3 5.75
+matrac 8 98
+kerék 12 110
+tepsi 99 17.9
